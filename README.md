@@ -1,5 +1,5 @@
 ## Hi there! I'm  
-![Harsha-Lakshan](https://la-x-an.github.io/La-x-aN/animation.html)
+![Harsha-Lakshan](https://raw.githubusercontent.com/La-x-aN/La-x-aN/main/animation.gif)
 
 ### 🚀 Preferred Programming Languages:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
