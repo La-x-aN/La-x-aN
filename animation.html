@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harsha Lakshan Animation</title>
+    <style>
+        body {
+            background-color: #0d1117;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Courier New', monospace;
+            overflow: hidden;
+        }
+        .falling {
+            position: absolute;
+            font-size: 40px;
+            font-weight: bold;
+            opacity: 0;
+            animation: drop 1s forwards;
+        }
+        @keyframes drop {
+            0% { transform: translateY(-100px); opacity: 0; }
+            100% { transform: translateY(0px); opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <script>
+        const name = "Harsha-Lakshan(La-x-aN)";
+        const container = document.createElement("div");
+        document.body.appendChild(container);
+
+        name.split('').forEach((char, index) => {
+            setTimeout(() => {
+                let span = document.createElement("span");
+                span.textContent = char;
+                span.classList.add("falling");
+                span.style.left = `${50 + index * 15}px`;
+                span.style.animationDelay = `${index * 0.2}s`;
+                document.body.appendChild(span);
+            }, index * 200);
+        });
+
+        setTimeout(() => {
+            const languages = ["HTML", "CSS", "JavaScript", "Node.js", "React", "Python", "C#", "Java", "Django", "FastAPI"];
+            const langContainer = document.createElement("div");
+            langContainer.style.marginTop = "20px";
+            langContainer.style.fontSize = "24px";
+            langContainer.style.fontWeight = "bold";
+            langContainer.style.color = "#ffcc00";
+            document.body.appendChild(langContainer);
+            
+            languages.forEach((lang, index) => {
+                setTimeout(() => {
+                    let span = document.createElement("span");
+                    span.textContent = lang + "  ";
+                    langContainer.appendChild(span);
+                }, 2000 + index * 300);
+            });
+        }, name.length * 200);
+    </script>
+</body>
+</html>
