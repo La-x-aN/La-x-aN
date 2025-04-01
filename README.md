@@ -1,5 +1,5 @@
 ## Hi there! I'm  
-![Harsha-Lakshan](https://github.com/La-x-aN/La-x-aN.github.io/animation.html)
+![Harsha-Lakshan](https://La-x-aN.github.io/animation.html)
 
 
 ### 🚀 Preferred Programming Languages:
