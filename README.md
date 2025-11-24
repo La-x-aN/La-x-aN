@@ -16,4 +16,4 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 📈 GitHub Stats
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-x-aN&show_icons=true&theme=radical)
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-x-aN&show_icons=true&theme=radical&cache_buster=1)
