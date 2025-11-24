@@ -16,4 +16,4 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 📈 GitHub Stats
-![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/La-x-aN/stats?cardType=level&theme=dark&ring=17d1e8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=La-x-aN&theme=radical&hide_border=true&cache_buster=contri-1)
