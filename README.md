@@ -2,7 +2,7 @@
 ![Harsha-Lakshan](https://raw.githubusercontent.com/La-x-aN/La-x-aN/main/Animation.gif)
 
 ### 👐 Personal Status
-![Student Status](https://img.shields.io/badge/Status-Student-0066CC?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-graduated-0066CC?style=for-the-badge)
 ![Open For Internship](https://img.shields.io/badge/Open%20For-Internship-007bff?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 🚀 Preferred Programming Languages:
